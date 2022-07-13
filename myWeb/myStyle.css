@@ -1,0 +1,14 @@
+p {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: black;
+}
+
+.Title {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    width: 300px;
+    margin-bottom: 20px;;
+}
