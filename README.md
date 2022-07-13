@@ -1,2 +1,2 @@
-Login/Logout/Register pages
+Login/Logout/Register pages,
 upload files/images pages
